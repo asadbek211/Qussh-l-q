@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name" translatable="false">Qusshılıq</string>
+    <string name="meat">Go`sh bag`darindag`i tawiqlar</string>
+    <string name="egg">Ma`yek bag`darindag`i tawiqlar</string>
+    <string name="back">Artqa</string>
+    <string name="uzbek">Ózbek</string>
+    <string name="qr">Qaraqalpaq</string>
+    <string name="broyler">Broyler Sho`jeler</string>
+    <string name="hafta">Hápte</string>
+    <string name="chicken">Sho`jeler</string>
+    <string name="hens">Tawiqlar</string>
+    <string name="den">Kún</string>
+    <string name="hen_ratsion">Háptelik tawıqlar ushın</string>
+    <string name="ratsion">lı azıq ratsionı</string>
+    <string name="den2">Ku`nlık sho’jeler ushın</string>
+    <string name="den3">Háptelik broyler shójeler ushın</string>
+    <string name="den4">Ku`nlık broyler shójeler ushın</string>
+    <string name="egg_chicken">Ma`yek bag`darindag`i sho`jeler</string>
+    <string name="egg_hen">Ma`yek bag`darindag`i tawiqlar</string>
+    <string name="energ">Energiya</string>
+    <string name="protein">Ulıwma protein</string>
+    <string name="klechatka">Klechatka</string>
+    <string name="oil">Ulıwma  may</string>
+    <string name="lizin">Lizin</string>
+    <string name="metionin">Metionin</string>
+    <string name="kalsiy">Kalsiy</string>
+    <string name="fosfor">Posfor</string>
+    <string name="natriy">Natriy</string>
+</resources>

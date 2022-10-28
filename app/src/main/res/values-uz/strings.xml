@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Qusshılıq</string>
+    <string name="meat">Go\'sht yo\'nalishidagi tovuqlar</string>
+    <string name="egg">Tuxum yo\'nalishidagi tovuqlar</string>
+    <string name="back">Orqaga</string>
+    <string name="uzbek">O\'zbek</string>
+    <string name="qr">Qoraqalpoq</string>
+    <string name="broyler">Broyler Jo\'jalar</string>
+    <string name="hafta">Hafta</string>
+    <string name="chicken">Jo\'jalar</string>
+    <string name="hens">Tovuqlar</string>
+    <string name="den">Kun</string>
+    <string name="hen_ratsion">haftalik tovuqlar uchun</string>
+    <string name="ratsion">li ozuqa ratsioni</string>
+    <string name="den2">Kunlik jo’jalar uchun</string>
+    <string name="den3">Haftalik broyler jo’jalar uchun</string>
+    <string name="den4">Kunlik broyler jo’jalar uchun</string>
+    <string name="egg_chicken">Tuxum yo\'nalishidagi jo\'jalar</string>
+    <string name="egg_hen">Tuxum yo\'nalishidagi tovuqlar</string>
+    <string name="energ">Energiya</string>
+    <string name="protein">Xom protein</string>
+    <string name="klechatka">Klechatka</string>
+    <string name="oil">Xom yog’</string>
+    <string name="lizin">Lizin</string>
+    <string name="metionin">Metionin</string>
+    <string name="kalsiy">Kalsiy</string>
+    <string name="fosfor">Posfor</string>
+    <string name="natriy">Natriy</string>
+</resources>
